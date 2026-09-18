@@ -1,0 +1,13 @@
+{
+  "request_id": "test_cali_final_imagen3_2026-09-17",
+  "agent": "cali",
+  "target_platform": "blog",
+  "status": "ready",
+  "is_stub": false,
+  "engine_used": "flux-ai-cloud",
+  "image_path": "/home/runner/work/Personal-Site/Personal-Site/IMAGE_BRIDGE/outbox/test_cali_final_imagen3_2026-09-17.png",
+  "relative_image_path": "IMAGE_BRIDGE/outbox/test_cali_final_imagen3_2026-09-17.png",
+  "generated_prompt": "Professional editorial graphic for Peter Wall Consulting. Headline: Final Imagen 3 Live Production Test. Concept: Minimalist tech workspace with vibrant abstract visuals on screens, 16:9 ratio. Target Platform: blog. High-end tech corporate style, 16:9 aspect ratio, clean lighting, no distorted people.",
+  "brand_critique_notes": "Dave (Fresh Eyes Review Passed): Clean 16:9 image generated via flux-ai-cloud.",
+  "processed_at": "2026-09-17T10:07:16Z"
+}

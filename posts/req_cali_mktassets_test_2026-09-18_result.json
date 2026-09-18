@@ -1,0 +1,14 @@
+{
+  "request_id": "req_cali_mktassets_test_2026-09-18",
+  "agent": "cali",
+  "target_platform": "blog",
+  "status": "ready",
+  "is_stub": false,
+  "engine_used": "gemini-imagen-3",
+  "image_path": "/home/runner/work/Personal-Site/Personal-Site/IMAGE_BRIDGE/outbox/req_cali_mktassets_test_2026-09-18.png",
+  "relative_image_path": "IMAGE_BRIDGE/outbox/req_cali_mktassets_test_2026-09-18.png",
+  "public_image_url": "https://raw.githubusercontent.com/IsraelWall/marketing-assets/main/posts/req_cali_mktassets_test_2026-09-18.png",
+  "generated_prompt": "Professional editorial background visual for Peter Wall Consulting. Concept: Minimalist tech workspace with vibrant abstract visuals on screens. Target Platform: blog. High-end corporate executive aesthetic, clean studio lighting, no text, no words, no letters, no typography, no distorted people.",
+  "brand_critique_notes": "Dave (Fresh Eyes Review Passed): Clean 16:9 image generated via gemini-imagen-3.",
+  "processed_at": "2026-09-18T08:31:44Z"
+}
