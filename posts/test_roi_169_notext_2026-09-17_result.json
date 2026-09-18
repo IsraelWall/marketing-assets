@@ -1,0 +1,13 @@
+{
+  "request_id": "test_roi_169_notext_2026-09-17",
+  "agent": "roi",
+  "target_platform": "linkedin",
+  "status": "ready",
+  "is_stub": false,
+  "engine_used": "gemini-imagen-3",
+  "image_path": "/home/runner/work/Claude/Claude/IMAGE_BRIDGE/outbox/test_roi_169_notext_2026-09-17.png",
+  "relative_image_path": "IMAGE_BRIDGE/outbox/test_roi_169_notext_2026-09-17.png",
+  "generated_prompt": "Professional editorial background visual for Peter Wall Consulting. Concept: High-end sleek corporate glass office desk in Milan, sunlit, clean executive aesthetic. Target Platform: linkedin. High-end corporate executive aesthetic, clean studio lighting, no text, no words, no letters, no typography, no distorted people.",
+  "brand_critique_notes": "Dave (Fresh Eyes Review Passed): Clean 16:9 image generated via gemini-imagen-3.",
+  "processed_at": "2026-09-17T10:40:27Z"
+}

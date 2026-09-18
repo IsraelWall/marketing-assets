@@ -1,0 +1,12 @@
+{
+  "request_id": "test_roi_free_2026-09-17",
+  "agent": "roi",
+  "target_platform": "linkedin",
+  "status": "ready",
+  "is_stub": false,
+  "image_path": "/home/runner/work/Claude/Claude/IMAGE_BRIDGE/outbox/test_roi_free_2026-09-17.png",
+  "relative_image_path": "IMAGE_BRIDGE/outbox/test_roi_free_2026-09-17.png",
+  "generated_prompt": "Professional editorial graphic for Peter Wall Consulting. Headline: Test Run: Business Efficiency & AI Strategy. Concept: Modern sleek corporate office desk with digital interfaces and clean ambient lighting.. Target Platform: linkedin. High-end tech corporate style, 16:9 aspect ratio, clean lighting, no distorted people.",
+  "brand_critique_notes": "Dave (Fresh Eyes Review Passed): High-resolution editorial image generated via Flux AI Cloud engine.",
+  "processed_at": "2026-09-17T08:24:57Z"
+}
